@@ -185,6 +185,11 @@
   resolved "https://registry.yarnpkg.com/@protobufjs/utf8/-/utf8-1.1.0.tgz#a777360b5b39a1a2e5106f8e858f2fd2d060c570"
   integrity sha1-p3c2C1s5oaLlEG+OhY8v0tBgxXA=
 
+"@snyk/protect@^1.1163.0":
+  version "1.1163.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1163.0.tgz#68ce3764e40aa3b8ef434e0d72f157258637f102"
+  integrity sha512-pwUwun+dukyPZFgglH7w13laMrtddL306HzxXNDKX9o3j8ay16blAKau/iI/asiL9czAaTbibxbS9KSZSxryng==
+
 "@types/cheerio@*":
   version "0.22.9"
   resolved "https://registry.yarnpkg.com/@types/cheerio/-/cheerio-0.22.9.tgz#b5990152604c2ada749b7f88cab3476f21f39d7b"
