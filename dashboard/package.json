@@ -19,7 +19,7 @@
     "enzyme-adapter-react-16": "^1.1.1",
     "fstream": "^1.0.12",
     "js-yaml": "^3.10.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.17",
     "moniker-native": "^0.1.6",
     "protobufjs": "^6.8.4",
     "qs": "^6.5.2",
